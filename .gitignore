@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# Data / outputs
+output/
+*.pt
+*.pkl
+CORPCODE.xml
+
+# Secrets
+*.key
+credentials.json
+secrets.json
